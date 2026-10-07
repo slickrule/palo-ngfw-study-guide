@@ -2,7 +2,7 @@
 
 A free study reference for the Palo Alto Networks Certified NGFW Engineer exam, written in plain language.
 
-**Open it online:** replace this line with your GitHub Pages link.
+https://slickrule.github.io/palo-ngfw-study-guide/
 
 ## What is inside
 
